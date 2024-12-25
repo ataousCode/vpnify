@@ -1,5 +1,8 @@
 # vpnify
 
+![Simulator Screenshot - iPhone 16 Pro - 2024-12-25 at 16 30 16](https://github.com/user-attachments/assets/cd4c42b7-b87e-41b3-884d-65535fc0b28a)
+
+
 A new Flutter project.
 
 ## Getting Started
